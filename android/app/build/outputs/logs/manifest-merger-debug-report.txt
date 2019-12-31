@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/d040a10ede4e1a660778cd1b6b0a0139/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/bd084265582377da4cefc0d399602b8b/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/7756f455021e17699dd3a17ab65a0542/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/ea2a8920f3e74d76e1f1dd1272e838f2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/773c7a2cbd5ebc91ded49938b873142a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/8a7941ac8fd2de6db5e7ed646a2a78c0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/f36c7b7a410714c9a8b142453d98dc25/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/dcc09310fe2e9d84fd140024690c49bd/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/6756dae43e4777b3d3e6f1e8c06554bb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/d196efaeaa24758005388a87316b2842/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/165da29e57c9e3544105296751c9a3d7/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/233fe201d7e316cb1ad98dbfb6bd3d8b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/c410c063b231cc09dc132594ad8025a4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/750eb64147208a374ac16cf7cb5caf1a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/d57bf1ffcaceb33635f8be07f33627e9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/9264df9e87f280888ac5f1df352bd70d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/ecb0aaf4bf5ad384bf1f2572c82cb935/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/7743c992fd1325b2703763e4c7384795/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/19e89295f6c60dbc153718b97611fd34/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/fd87244fac2301e8ad7552a8c27dfaf1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/e2efefd443df291f4c2e3c547f00355e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/e3dbbe48173936d0eaef19a036bb39b1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/1e1cb59583d3d72138f6ee94d9b8f51d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/ceec3789c97106bb3eaec7aa830272bd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/cc762c6fb13b61ee63911d8c1e34eda4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/034335ef5a1a3dd57220c4a31f0dcea3/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/b2bac7ef14da0472be3128c5e63c3dc6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/95edd166e842580129061a524e599a23/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/4ce43d4ffa8eaca72d40e69168a9d02a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/9b98ba2b8abb4e085b3c50132d1e166c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/6b6fcbb4bc33ebc287627374a69fee56/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/c8151d9230732ae9f9ed43a6259e0a72/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/da649a64ab0c7e2447dd5a7f9dc56ee0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/7cea5e5a9cb250f0778c9cdedd6b7260/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/37c37c0f61f6df64a0a6028c45d9d23b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/f65fec97647b1d2a915ecf45e6c7b9fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/ee74abf9f89c49f5106cdeba2fe85a96/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/atripathi/avi/indie-card-games/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/atripathi/avi/indie-card-games/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/atripathi/avi/indie-card-games/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml:2:3-31
+		INJECTED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml:2:3-31
+		INJECTED from /Users/atripathi/avi/indie-card-games/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/atripathi/avi/indie-card-games/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/atripathi/avi/indie-card-games/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/atripathi/avi/indie-card-games/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/d040a10ede4e1a660778cd1b6b0a0139/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/d040a10ede4e1a660778cd1b6b0a0139/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/165da29e57c9e3544105296751c9a3d7/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/165da29e57c9e3544105296751c9a3d7/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/cc762c6fb13b61ee63911d8c1e34eda4/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/cc762c6fb13b61ee63911d8c1e34eda4/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/034335ef5a1a3dd57220c4a31f0dcea3/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/034335ef5a1a3dd57220c4a31f0dcea3/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/cc762c6fb13b61ee63911d8c1e34eda4/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/atripathi/avi/indie-card-games/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/atripathi/avi/indie-card-games/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/atripathi/avi/indie-card-games/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.indiecardgames.MainActivity
+ADDED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/d040a10ede4e1a660778cd1b6b0a0139/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/d040a10ede4e1a660778cd1b6b0a0139/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/bd084265582377da4cefc0d399602b8b/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/bd084265582377da4cefc0d399602b8b/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/7756f455021e17699dd3a17ab65a0542/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/7756f455021e17699dd3a17ab65a0542/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/ea2a8920f3e74d76e1f1dd1272e838f2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/ea2a8920f3e74d76e1f1dd1272e838f2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/773c7a2cbd5ebc91ded49938b873142a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/773c7a2cbd5ebc91ded49938b873142a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/8a7941ac8fd2de6db5e7ed646a2a78c0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/8a7941ac8fd2de6db5e7ed646a2a78c0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/f36c7b7a410714c9a8b142453d98dc25/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/f36c7b7a410714c9a8b142453d98dc25/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/dcc09310fe2e9d84fd140024690c49bd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/dcc09310fe2e9d84fd140024690c49bd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/6756dae43e4777b3d3e6f1e8c06554bb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/6756dae43e4777b3d3e6f1e8c06554bb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/d196efaeaa24758005388a87316b2842/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/d196efaeaa24758005388a87316b2842/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/165da29e57c9e3544105296751c9a3d7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/165da29e57c9e3544105296751c9a3d7/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/233fe201d7e316cb1ad98dbfb6bd3d8b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/233fe201d7e316cb1ad98dbfb6bd3d8b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/c410c063b231cc09dc132594ad8025a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/c410c063b231cc09dc132594ad8025a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/750eb64147208a374ac16cf7cb5caf1a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/750eb64147208a374ac16cf7cb5caf1a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/d57bf1ffcaceb33635f8be07f33627e9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/d57bf1ffcaceb33635f8be07f33627e9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/9264df9e87f280888ac5f1df352bd70d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/9264df9e87f280888ac5f1df352bd70d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/ecb0aaf4bf5ad384bf1f2572c82cb935/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/ecb0aaf4bf5ad384bf1f2572c82cb935/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/7743c992fd1325b2703763e4c7384795/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/7743c992fd1325b2703763e4c7384795/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/19e89295f6c60dbc153718b97611fd34/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/19e89295f6c60dbc153718b97611fd34/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/fd87244fac2301e8ad7552a8c27dfaf1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/fd87244fac2301e8ad7552a8c27dfaf1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/e2efefd443df291f4c2e3c547f00355e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/e2efefd443df291f4c2e3c547f00355e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/e3dbbe48173936d0eaef19a036bb39b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/e3dbbe48173936d0eaef19a036bb39b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/1e1cb59583d3d72138f6ee94d9b8f51d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/1e1cb59583d3d72138f6ee94d9b8f51d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/ceec3789c97106bb3eaec7aa830272bd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/ceec3789c97106bb3eaec7aa830272bd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/cc762c6fb13b61ee63911d8c1e34eda4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/cc762c6fb13b61ee63911d8c1e34eda4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/034335ef5a1a3dd57220c4a31f0dcea3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/034335ef5a1a3dd57220c4a31f0dcea3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/b2bac7ef14da0472be3128c5e63c3dc6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/b2bac7ef14da0472be3128c5e63c3dc6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/95edd166e842580129061a524e599a23/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/95edd166e842580129061a524e599a23/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/4ce43d4ffa8eaca72d40e69168a9d02a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/4ce43d4ffa8eaca72d40e69168a9d02a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/9b98ba2b8abb4e085b3c50132d1e166c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/9b98ba2b8abb4e085b3c50132d1e166c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/6b6fcbb4bc33ebc287627374a69fee56/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/6b6fcbb4bc33ebc287627374a69fee56/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/c8151d9230732ae9f9ed43a6259e0a72/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/c8151d9230732ae9f9ed43a6259e0a72/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/da649a64ab0c7e2447dd5a7f9dc56ee0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/da649a64ab0c7e2447dd5a7f9dc56ee0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/7cea5e5a9cb250f0778c9cdedd6b7260/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/7cea5e5a9cb250f0778c9cdedd6b7260/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/37c37c0f61f6df64a0a6028c45d9d23b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/37c37c0f61f6df64a0a6028c45d9d23b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/f65fec97647b1d2a915ecf45e6c7b9fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/f65fec97647b1d2a915ecf45e6c7b9fd/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/ee74abf9f89c49f5106cdeba2fe85a96/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/atripathi/.gradle/caches/transforms-2/files-2.1/ee74abf9f89c49f5106cdeba2fe85a96/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/atripathi/avi/indie-card-games/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/atripathi/avi/indie-card-games/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/atripathi/avi/indie-card-games/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/atripathi/avi/indie-card-games/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/atripathi/avi/indie-card-games/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/atripathi/avi/indie-card-games/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/atripathi/avi/indie-card-games/android/app/src/debug/AndroidManifest.xml:5:22-75
